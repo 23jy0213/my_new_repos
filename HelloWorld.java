@@ -3,5 +3,10 @@ public class main {
     System.out.println("HelloWorld");
     System.out.println("HelloWorld");
     System.out.println("HelloWorld");
+
+    int a,b,c;
+    double x,y,z;
+
+    ああああああああああああああああああああああああああああ
   }
 }
